@@ -8,7 +8,7 @@ Full-stack developer from Brasília, Brazil
 
 Always working on my habits and improving daily.
 
-> “Habits are the compound interest of self-improvement” James Clear
+> “Success is the product of daily habits—not once-in-a-lifetime transformations.” James Clear
 
 > “Until you make the unconscious conscious, it will direct your life and you will call it fate.” Carl G. Jung
 
