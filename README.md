@@ -1,6 +1,6 @@
-## Álvaro Veiga
+# Álvaro Veiga
 
-Full-stack developer
+**Full-stack developer**
 
 <p><a href="mailto:alvaromrveiga@gmail.com">
   <img src="https://img.shields.io/badge/-alvaromrveiga@gmail.com-277ea3?logo=gmail&logoColor=white" />
