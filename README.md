@@ -1,16 +1,17 @@
-### Hi there 👋 I'm Álvaro 😄
+## Álvaro Veiga
 
-Full-stack developer from Brasília, Brazil
+Full-stack developer
 
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p><a href="mailto:alvaromrveiga@gmail.com">
+  <img src="https://img.shields.io/badge/-alvaromrveiga@gmail.com-277ea3?logo=gmail&logoColor=white" />
+</a></p>
 
-Always working on my habits and improving daily.
+Backend enthusiast always learning something new.  
+🌱 Currenly studying NestJs framework and Prisma ORM
 
-> “Success is the product of daily habits—not once-in-a-lifetime transformations.” James Clear
+Passionate about self-improviment, everyday I'm reading books, working on my habits and improving.
 
-> “Until you make the unconscious conscious, it will direct your life and you will call it fate.” Carl G. Jung
+“Success is the product of daily habits—not once-in-a-lifetime transformations.” —James Clear
 
 <!--
 **alvaromrveiga/alvaromrveiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
