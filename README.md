@@ -9,7 +9,7 @@
 Backend enthusiast always learning something new.  
 🌱 Currenly studying NestJs framework and Prisma ORM
 
-Passionate about self-improviment, everyday I'm reading books, working on my habits and improving.
+Passionate about self-improvement, everyday I'm reading books, working on my habits and getting better than the day before.
 
 “Success is the product of daily habits—not once-in-a-lifetime transformations.” —James Clear
 
