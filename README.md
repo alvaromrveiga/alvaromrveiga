@@ -2,9 +2,15 @@
 
 **Full-stack developer**
 
-<p><a href="mailto:alvaromrveiga@gmail.com">
-  <img src="https://img.shields.io/badge/-alvaromrveiga@gmail.com-277ea3?logo=gmail&logoColor=white" />
-</a></p>
+<p>
+  <a href="https://www.linkedin.com/in/alvaromrveiga/">
+    <img src="https://img.shields.io/badge/-Álvaro Veiga-277ea3?logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:alvaromrveiga@gmail.com">
+    <img src="https://img.shields.io/badge/-alvaromrveiga@gmail.com-277ea3?logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 Backend enthusiast always learning something new.  
 🌱 Currenly studying NestJs framework and Prisma ORM
