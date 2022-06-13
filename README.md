@@ -13,7 +13,7 @@
 </p>
 
 Backend enthusiast always learning something new.  
-🌱 Currenly studying NestJs framework and Prisma ORM
+🌱 Currently studying AWS and microservices
 
 Passionate about self-improvement, everyday I'm reading books, working on my habits and getting better than the day before.
 
