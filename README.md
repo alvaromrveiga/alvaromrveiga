@@ -1,6 +1,6 @@
 # Álvaro Veiga
 
-**Full-stack developer**
+**Backend Developer**
 
 <p>
   <a href="https://www.linkedin.com/in/alvaromrveiga/">
@@ -12,8 +12,8 @@
   </a>
 </p>
 
-Backend enthusiast always learning something new.  
-🌱 Currently studying AWS and microservices
+Always learning something new.  
+🌱 Currently studying microservices architecture and AWS
 
 Passionate about self-improvement, everyday I'm reading books, working on my habits and getting better than the day before.
 
