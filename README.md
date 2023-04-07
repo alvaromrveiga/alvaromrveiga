@@ -14,7 +14,7 @@
 
 Backend enthusiast always learning something new.  
 
-Passionate about self-improvement, everyday I'm reading books, working on my habits and getting better than the day before.
+🌱 Passionate about self-improvement, everyday I'm reading books, working on my habits and getting better than the day before.
 
 “Success is the product of daily habits—not once-in-a-lifetime transformations.” —James Clear
 
