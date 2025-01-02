@@ -1,6 +1,6 @@
 # Álvaro Veiga
 
-**Full Stack Developer**
+**Full Stack Software Engineer | Backend & AWS Specialist**
 
 <p>
   <a href="https://www.linkedin.com/in/alvaromrveiga/">
@@ -12,23 +12,6 @@
   </a>
 </p>
 
-Backend enthusiast always learning something new.  
+Backend specialist with strong expertise in Node.js, TypeScript/Javascript and AWS cloud solutions. Passionate about building scalable systems and optimizing database performance.
 
-🌱 Passionate about self-improvement, everyday I'm reading books, working on my habits and getting better than the day before.
-
-“Success is the product of daily habits—not once-in-a-lifetime transformations.” —James Clear
-
-<!--
-**alvaromrveiga/alvaromrveiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Driven by automation and continuously improving development workflows
