@@ -3,10 +3,6 @@
 **Full Stack Software Engineer | Backend & AWS Specialist**
 
 <p>
-  <a href="https://www.linkedin.com/in/alvaromrveiga/">
-    <img src="https://img.shields.io/badge/-Álvaro Veiga-277ea3?logo=linkedin&logoColor=white" />
-  </a>
-  
   <a href="mailto:alvaromrveiga@gmail.com">
     <img src="https://img.shields.io/badge/-alvaromrveiga@gmail.com-277ea3?logo=gmail&logoColor=white" />
   </a>
